@@ -8,6 +8,23 @@ body
 	line-height: 1.4em;
 	margin: 0px;
 }
+h1,h2,h3{
+	font-style: normal;
+}
+
+aside,a{
+	color: #de6581;
+	text-decoration: none;
+}
+
+aside{
+	width: 230px;
+	margin-left: 20px;
+}
+
+article{
+	text-align: justify;
+}
 
 #wrapper
 {
@@ -20,6 +37,9 @@ body
 h1
 {
 	font-size: 36px;
+}
+header{
+	height: 200px;
 }
 
 nav, footer
